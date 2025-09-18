@@ -1,0 +1,20 @@
+1. ifconfig.em =82.174.28.113
+ipconfig= 192.168.1.102
+
+2. ifconfig.me= there are no changes
+ipconfig= there is an extra change a extra adapter showed up which gives me information about the VPN
+this change is because the vpn has been turned on therefore the system recognizes a different adapter 
+
+3.ip address is private, gateway is  192.168.1.1
+
+4. 192.168.1.102 gives a bogon ip address
+82.174.28.113 gives the following coordinates: 51.9292,4.5778
+
+5. the first hub says the request timed out
+the second hub gives an website with an ip address
+the last hub has an public ip address
+
+6. the ip address given was [142.250.179.195] fill this in on ipinfo.io it gives the following coordinates:52.5083,5.4750
+
+5)
+

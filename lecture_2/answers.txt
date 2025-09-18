@@ -1,0 +1,12 @@
+77 6F 72 6C 64
+00001840
+1-bit starts at 62
+24-bit starts at 54
+
+7. 
+1 1
+2 APPLE SSD AP0512R, 500,28 GB, 5,132 MB/s read speed, 4,606 MB/s writing speed (source: max tech)
+3 3 partitions
+iSCPreboot: contains os
+Macintosh HD - Data: data storage
+Recovery: backup partion

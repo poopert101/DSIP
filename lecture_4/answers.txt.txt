@@ -1,0 +1,11 @@
+5. 169 drivers
+
+C:\Windows\System32\drivers\Netwfw06.dat
+C:\Windows\System32\drivers\Netwfw06.sys
+C:\Windows\System32\drivers\vwifibus.sys
+C:\Windows\System32\IntelHVRouter06.dll
+C:\Windows\System32\DriverStore\FileRepository\e1d68x64.inf_amd64_9b04ae4c30c0d829
+
+6.1 14,1% processor, 1799,8 mb RAM
+
+6.2 C:\Program Files\Google\Chrome\Application
